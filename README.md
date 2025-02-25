@@ -1,4 +1,4 @@
-![GitHub Copilot](/images/logo.jpeg)
+![GitHub Copilot](/images/logo.jpg)
 ## Bootcamp Microsoft AI for Tech - GitHub Copilot
 
 ### Objetivo

@@ -76,3 +76,119 @@ Perguntas e respostas sobre o contexto do cÃ³digo
 # -> Referenciando algum arquivo (ex: #vendas.py)
 / -> Comando a ser mandado para o Chat
 
+
+Copilot CLI
+------------
+
+CLI -> usar em prompt (bash) ou terminal
+
+sugest -> sugerir informações sobre contexto definido
+explain -> explicar algo ( nem sempre muito efetivo )
+
+CLI Aliases - > atalhos para dinamizar acesso
+
+
+===============
+
+Tokens -> Custos para embedar/usar (perguntas e respostas)
+
+
+Ética e Uso
+-----------
+
+Copilot -> Proxy(cloud) - > Github Copilot LLM
+
+copilot: pega código e encripta, prompt conforme contexto, sugestões aceitas ou rejeitadas pelo usuário
+
+proxy(cloud): Filtra as infiormações
+
+LLM: gera o código e retorna pro Proxy
+
+PrexyReturn: texta os códigos, filtra os resultados e retorna copilot.
+
+OBS: todos os dados no processo estão apenas em memória.
+
+
+IA Responsável e seus Princípios
+---------------------------------
+
+- imparcialidade
+É para todos? Funciona para todos? Prejudica alguém? Seus dados são enviezados(não pode!)?
+
+- confiabilidade e segurança
+Erros que podem causar danos. Capaz de ser consistente em situações normais e inesperadas.
+
+- privacidade e segurança
+Dados provados não podem ser expostos. acesso a dados são essenciais para fazer previsões e decisões. (LGPD). Anomimatos, controles adequados.
+
+- inclusão
+Acessibilidade, inclusão educação serviços. Todos devem se beneficiar da tecnologias inteligentes.
+
+- transparência
+Auditáveis. sistemas capazes de detectar problemas co desempenho, segurança e privacidade. Funcionários SÃO OS RESPONSÁVEIS e não a IA.
+
+- responsabilidade
+Todos sabem como usar? Estão usando de maneira correta? Estamos entregando da forma correta? 
+
+
+=====
+
+- Responsabilidade do código: Nossa!
+
+- Dados Pessoais: Copilot não precisa acessar seus dados, só desativar.(Copilot apenas treina o PROMPT e o SNIPPET)
+
+- Propriedade Intelectual: Copilot é treinado com código feito no GITHUB!IA não copia e cola. IA detecta PADRÕES e responde aos padrões!
+
+- Github/Microsoft: Não possuem os snippets de código. Propriedade intelectual é APENAS do criados de códigos.
+
+- Filtros no Copilot: Sugestão, Coleção, Código público e pesquisa web no Copilot Chat. (pode ser habilitado ou desabilitado).
+
+
+=====
+
+Features Copilot Business e BETA
+
+Business -> $19 - Buy now
+- não requer o enterprise cloud
+
+
+Enterprise -> $39 - contact sales
+- knowled base (conteúdo institucional da empresa)
+- fine tunning (melhorar algum algoritmo de rede neural)
+- setting code guidelines
+
+
+Fine Tuning:
+
+GIHUB MANAGED
+Repositorio -> Orchestrator -> Telemetry -> Proxy -> Reference index
+
+AZURE MANAGED
+- Fine tuning 
+- Inference
+
+IDE Extensions -> Telemetry
+			> Proxy
+
+
+=====
+
+Github Workspaces
+- Divide uma Issue sobre tarefas e da uma sugestão de código.
+
+Papel do desenvolvedor?
+- Qual o impacto positivo 
+- O futuro é a automação
+
+
+
+copilot workspaces - 
+
+
+
+
+
+
+
+
+
